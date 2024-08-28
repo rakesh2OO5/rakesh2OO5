@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning web development .<br>I'm a first year student .<br>Studying COMPUTER SCIENCE AND ENGINEERING in Sir MVIT .<br>  
+I'm currently learning web development .<br>I'm a second year student .<br>Studying COMPUTER SCIENCE AND ENGINEERING in Sir MVIT .<br>  
 
 
 ## 🌐 Socials:
