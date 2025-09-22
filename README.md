@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently learning web development and dsa .<br>I'm a third year student .<br>Studying COMPUTER SCIENCE AND ENGINEERING at Sir MVIT .<br>
-Links : 
+<b>Links</b>: 
         <ul style ={list-style-type:none;}>
                 <li><a href="https://rakeshportfolioo.netlify.app">My Portfolio</a></li>
                 <li><a href="https://www.linkedin.com/in/rakeshone8">My Linkedin</a></li>
