@@ -1,10 +1,13 @@
 # 💫 About Me:
-I'm currently learning web development and dsa .<br>I'm a third year student .<br>Studying COMPUTER SCIENCE AND ENGINEERING at Sir MVIT .<br>
-<br><b>Links</b>: 
-        <ul style ={list-style-type:none;}>
+<pre>
+        I'm currently learning full stack web development and DSA in C++.
+        I'm a third year student , studying "COMPUTER SCIENCE AND ENGINEERING" at Sir MVIT.
+        <b>Links</b>: 
+        <ul>
                 <li><a href="https://rakeshportfolioo.netlify.app">My Portfolio</a></li>
                 <li><a href="https://www.linkedin.com/in/rakeshone8">My Linkedin</a></li>
         </ul>
+</pre>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
