@@ -1,7 +1,8 @@
 # 💫 About Me:
 <pre>
-I'm currently learning full stack web development and DSA in C++.
-I'm a third year student , studying "COMPUTER SCIENCE AND ENGINEERING" at Sir MVIT.
+Welcome to my GitHub profile . 
+My name is Rakesh D and I am a third year student , studying "COMPUTER SCIENCE AND ENGINEERING" at Sir MVIT.
+I am currently learning full stack web development and DSA in C++.
 <b>Links</b>: 
 <ul>
 <li><a href="https://rakeshportfolioo.netlify.app">My Portfolio</a></li>
