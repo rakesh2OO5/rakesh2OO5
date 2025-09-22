@@ -2,7 +2,7 @@
 <pre>
 I'm currently learning full stack web development and DSA in C++.
 I'm a third year student , studying "COMPUTER SCIENCE AND ENGINEERING" at Sir MVIT.
-b>Links</b>: 
+<b>Links</b>: 
 <ul>
 <li><a href="https://rakeshportfolioo.netlify.app">My Portfolio</a></li>
 <li><a href="https://www.linkedin.com/in/rakeshone8">My Linkedin</a></li>
