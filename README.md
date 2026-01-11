@@ -42,4 +42,12 @@ I am currently learning full stack web development and DSA in C++.
 ---
 [![](https://visitcount.itsvg.in/api?id=rakesh2OO5&icon=0&color=8)](https://visitcount.itsvg.in)
 
+### 🔧 Open Source Contributions
+
+- 🟢 **p5.js (processing/p5.js-website)**
+  - Fixed broken `p5.sound` reference source links (2.x)
+  - Ensured links point to the correct GitHub repository (no more 404s)
+  - PR merged after maintainer review  
+  - 🔗 https://github.com/processing/p5.js-website/pull/1075
+
 
