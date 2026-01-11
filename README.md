@@ -32,18 +32,12 @@ I am currently learning full stack web development and DSA in C++.
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakesh2OO5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakesh2OO5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh2OO5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+## 📊 GitHub Stats :
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh2005&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh2005&layout=compact&theme=dark)
 ---
 [![](https://visitcount.itsvg.in/api?id=rakesh2OO5&icon=0&color=8)](https://visitcount.itsvg.in)
-
 ### 🔧 Open Source Contributions
-
 - 🟢 **p5.js (processing/p5.js-website)**
   - Fixed broken `p5.sound` reference source links (2.x)
   - Ensured links point to the correct GitHub repository (no more 404s)
