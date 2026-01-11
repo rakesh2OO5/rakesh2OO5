@@ -10,8 +10,8 @@ I am focused on building strong foundations in **software engineering**, with cu
 I enjoy learning by building real projects and contributing to production codebases.
 
 **Links**
-- Portfolio: <your-portfolio-link>
-- LinkedIn: <your-linkedin-link>
+- LinkedIn: www.linkedin.com/in/rakeshone8
+- Portfolio: https://rakeshportfolioo.netlify.app
 
 ---
 
