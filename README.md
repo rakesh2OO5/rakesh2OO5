@@ -32,14 +32,6 @@ I am currently learning full stack web development and DSA in C++.
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh2005&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh2005&layout=compact&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=rakesh2OO5&icon=0&color=8)](https://visitcount.itsvg.in)
 ### 🔧 Open Source Contributions
 - 🟢 **p5.js (processing/p5.js-website)**
   - Fixed broken `p5.sound` reference source links (2.x)
