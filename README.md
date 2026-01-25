@@ -1,60 +1,76 @@
-## About Me
+# Hi, I'm Rakesh D 👋
 
-Hi, I’m **Rakesh D**, a third-year **Computer Science and Engineering** student at **Sir M. Visvesvaraya Institute of Technology (Sir MVIT)**.
+🎓 **Third-year Computer Science and Engineering student** at **Sir M. Visvesvaraya Institute of Technology (Sir MVIT)**  
+💻 Passionate about **software engineering**, **open source**, and building real-world, production-ready systems.
 
-I am focused on building strong foundations in **software engineering**, with current interests in:
-- Full-stack web development
-- Data Structures & Algorithms (C++)
-- Open-source contributions
-
-I enjoy learning by building real projects and contributing to production codebases.
-
-**Links**
-- LinkedIn: www.linkedin.com/in/rakeshone8
-- Portfolio: https://rakeshportfolioo.netlify.app
+I enjoy learning by **solving problems, building full-stack projects, and contributing to active open-source codebases** where my work is reviewed and used by developers worldwide.
 
 ---
 
-## Technical Skills
+## 🚀 About Me
+- 🔭 Currently focused on **Full-Stack Web Development (MERN)** and **Core DSA in C++**
+- 🌱 Actively contributing to **open-source projects in the Processing / p5.js ecosystem**
+- 🧠 Strong believer in learning by building and shipping real features
+- 🎯 Career goal: Software Engineer / Full-Stack Developer
 
-**Programming Languages**
+---
+
+## 🛠 Technical Skills
+
+### Programming Languages
 - C, C++
 - JavaScript
 
-**Web Technologies**
-- HTML5, CSS3
-- React
-- Node.js, Express.js
-- MongoDB (MERN stack)
+### Web Technologies
+- HTML5, CSS3  
+- React  
+- Node.js, Express.js  
+- MongoDB (MERN Stack)
 
-**Tools & Platforms**
+### Tools & Platforms
 - Git
 - GitHub
 
 ---
 
-## Open Source Contributions
+## 🌟 Open Source Contributions
 
-### p5.js — processing/p5.js-website
+### p5.js — Processing Foundation
 
-- Fixed broken `p5.sound` reference source links on the **2.x documentation**
-- Corrected GitHub routing to point to the appropriate `p5.sound.js` repository
-- Eliminated multiple 404 errors across reference pages
-- Changes reviewed and merged by project maintainers
+### 1) Normalize Strands Noise Output to Match `noise()`
+- Improved consistency between **strands noise** and standard `noise()` output
+- Updated internal normalization logic for predictable value ranges
+- Changes reviewed and merged by core maintainers
 
-🔗 **Merged Pull Request:**  
+🔗 **Merged PR:**  
+https://github.com/processing/p5.js/pull/8430
+
+### 2) Fix Broken `p5.sound` Reference Links (2.x Docs)
+- Fixed incorrect GitHub routing for `p5.sound.js` source links
+- Eliminated multiple **404 errors** across documentation pages
+- Improved developer experience for library contributors and users
+
+🔗 **Merged PR:**  
 https://github.com/processing/p5.js-website/pull/1075
 
 ---
 
-## Currently Learning
-- Core DSA concepts using C++
-- Backend basics (Node.js, Express)
-- Improving code quality and best practices
+## 📚 Currently Learning
+- Data Structures & Algorithms (C++)
+- Backend Development with Node.js & Express
+- Code quality, testing, and open-source best practices
 
 ---
 
-## Interests
-- Open source
-- Web development
-- Problem solving
+## 🌐 Links
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rakeshone8  
+- 🧑‍💻 **Portfolio:** https://rakeshportfolioo.netlify.app  
+
+---
+
+## 🎯 Interests
+- Open Source Development
+- Full-Stack Engineering
+- Problem Solving 
+
+---
