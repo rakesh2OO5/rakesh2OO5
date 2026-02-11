@@ -53,6 +53,13 @@ https://github.com/processing/p5.js/pull/8430
 🔗 **Merged PR:**  
 https://github.com/processing/p5.js-website/pull/1075
 
+### 3) Fix Broken p5. Reference Links (Docs)*
+-Resolved incorrect internal routing in reference pages
+-Implemented render-time link normalization
+
+🔗 **Merged PR:**
+[processing/p5.js-website#1121](https://github.com/processing/p5.js-website/pull/1121)
+
 ---
 
 ## 📚 Currently Learning
