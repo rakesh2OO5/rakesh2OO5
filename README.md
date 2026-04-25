@@ -15,7 +15,8 @@ I enjoy solving real-world problems through full-stack development, contributing
 ### Languages
 - C, C++
 - JavaScript
-### Web StackHTML
+### Web Stack
+- HTML
 - CSS
 - React
 - Node.js, Express.js
