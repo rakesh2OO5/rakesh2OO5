@@ -25,7 +25,7 @@ I enjoy solving real-world problems through full-stack development, contributing
 - Git, GitHub
 
 ## 🌟 Open Source Contributions
-- 🟣 p5.js / Processing Foundation
+### 🟣 p5.js / Processing Foundation
 - ✅ Fixed documentation bugs and broken references
 - ✅ Improved developer experience across docs
 - ✅ Contributed to both core library & official website
