@@ -18,6 +18,7 @@ I enjoy solving real-world problems through full-stack development, contributing
 ### Web Stack
 - HTML
 - CSS
+- Tailwind CSS
 - React
 - Node.js, Express.js
 - MongoDB (MERN)
